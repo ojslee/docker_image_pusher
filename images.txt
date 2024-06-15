@@ -1,3 +1,5 @@
+centos7.9.2009
+alpine:3.19
 golang:1.22.4-alpine3.19
 nginx:1.27-alpine3.19
 bitnami/redis:7.0.15
