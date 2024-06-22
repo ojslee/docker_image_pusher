@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.3.2
+consul:1.14.8
