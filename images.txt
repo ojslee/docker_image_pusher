@@ -1,1 +1,1 @@
-consul:1.14.8
+busybox:latest
