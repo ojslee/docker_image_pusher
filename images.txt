@@ -1,1 +1,1 @@
-java:openjdk-8u111-jdk-alpine
+docker pull java:openjdk-8u111-alpine
