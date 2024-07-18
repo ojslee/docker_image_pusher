@@ -1,1 +1,1 @@
-busybox:latest
+apache/kafka:3.7.1
