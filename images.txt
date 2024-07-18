@@ -1,1 +1,1 @@
-java:openjdk-8u111-alpine
+java:openjdk-8
