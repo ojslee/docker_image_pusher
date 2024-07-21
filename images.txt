@@ -1,1 +1,2 @@
-java:openjdk-8
+jaegertracing/jaeger-collector:1.49
+jaegertracing/jaeger-query:1.49
