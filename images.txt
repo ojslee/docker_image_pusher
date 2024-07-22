@@ -1,2 +1,1 @@
-jaegertracing/jaeger-collector:1.49
-jaegertracing/jaeger-query:1.49
+jaegertracing/all-in-one:1.49
