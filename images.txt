@@ -1,1 +1,1 @@
-bitnami/minio:2024.11.7
+maven:3.8.6-openjdk-8
