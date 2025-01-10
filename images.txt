@@ -1,1 +1,1 @@
-maven:3.6.1-jdk-8-alpine
+sonatype/nexus3:3.76.0-alpine
