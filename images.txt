@@ -1,1 +1,1 @@
-centos:centos7.9.2009
+python:3.12.8
