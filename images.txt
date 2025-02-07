@@ -1,1 +1,1 @@
-rancher/rancher:v2.10.2-alpha4
+node:16.20.2-alpine3.18
