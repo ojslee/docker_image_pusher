@@ -1,1 +1,1 @@
-node:14.19.0-alpine
+mongo:8.0.5-rc2
