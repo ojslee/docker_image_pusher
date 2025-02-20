@@ -1,2 +1,1 @@
-mysql:5.7.44
-bitnami/mysql:5.7.43
+mongo:5.0.31
