@@ -1,1 +1,1 @@
-ollama/ollama:0.6.5
+elasticsearch:7.17.28
