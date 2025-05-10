@@ -1,2 +1,1 @@
-python:3.10.10-alpine3.17
-python:3.10.10
+docker pull bitnami/python:3.10.10
