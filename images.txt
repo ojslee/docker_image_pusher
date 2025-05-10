@@ -1,2 +1,1 @@
-golang:1.23.9-bullseye
-golang:1.23.9-alpine3.21
+python:3.10.10
