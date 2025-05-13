@@ -1,2 +1,2 @@
-python:3.10.10-alpine3.17
-openeuler/openeuler:20.03-lts
+python:3.10.4-alpine
+python:3.10.4
