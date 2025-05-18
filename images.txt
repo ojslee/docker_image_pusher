@@ -1,2 +1,1 @@
-python:3.10.17-alpine3.21
-bitnami/dotnet:9.0.5
+kindest/node:v1.23.17
