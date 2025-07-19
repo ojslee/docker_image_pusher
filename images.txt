@@ -1,1 +1,1 @@
-python:3.12.11-alpine3.22
+lmsysorg/sglang:v0.4.8.post1-cu126
