@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.10.post2-cu126
+python:3.12.11
