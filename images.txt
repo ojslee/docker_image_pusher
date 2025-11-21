@@ -1,1 +1,1 @@
-pandoc/latex:3.7-alpine
+kindest/node:v1.28.15
