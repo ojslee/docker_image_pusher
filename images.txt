@@ -1,1 +1,1 @@
-kindest/node:v1.28.15
+hiyouga/llamafactory:0.9.4
