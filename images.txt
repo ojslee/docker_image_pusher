@@ -1,1 +1,2 @@
-hiyouga/llamafactory:0.9.4
+milvusdb/milvus:v2.5.4
+quay.io/coreos/etcd:v3.5.5
