@@ -1,1 +1,1 @@
-dataease/sqlbot:v1.5.0
+zilliz/attu:v2.6.4
