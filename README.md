@@ -61,6 +61,7 @@ alpine 即 阿里云中显示的镜像名<br>
 
 ### 多架构
 需要在images.txt中用 --platform=xxxxx手动指定镜像架构
+--platform=linux/arm64 nginx:1.27-alpine3.21
 指定后的架构会以前缀的形式放在镜像名字前面
 ![](doc/多架构.png)
 
