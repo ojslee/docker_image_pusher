@@ -1,1 +1,1 @@
-openeuler/vllm-ascend:0.9.1rc1-torch_npu2.5.1-cann8.1.rc1-python3.10-oe2203lts
+nginx:1.27-alpine3.21
