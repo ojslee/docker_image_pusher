@@ -1,2 +1,1 @@
---platform=linux/arm64 redis:7.4.7-alpine3.21
---platform=linux/arm64 redismysql:8.4.8
+--platform=linux/arm64/v8 redis:7.4.7-alpine3.21
