@@ -1,1 +1,1 @@
---platform=linux/arm64 hiyouga/llamafactory:0.9.4-npu-a2
+--platform=linux/arm64 minio/minio:RELEASE.2025-09-07T16-13-09Z
