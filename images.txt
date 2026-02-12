@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 python:3.12-alpine3.23
+--platform=linux/arm64/v8 alpine:3.23
