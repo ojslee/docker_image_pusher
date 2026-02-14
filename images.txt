@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 alpine:3.23
+--platform=linux/arm64/v8 node:22.17-alpine3.22
