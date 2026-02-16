@@ -1,2 +1,2 @@
---platform=linux/arm64 dataease/sqlbot:v1.5.1
+--platform=linux/arm64 dataease/sqlbot:v1.6.0
 
